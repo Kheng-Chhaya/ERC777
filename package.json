@@ -1,0 +1,11 @@
+{
+    "name": "ERC777",
+    "author": "Kheng Chhaya",
+    "description": "ERC777 the test project",
+    "devDependencies": {},
+    "dependencies": {
+        "@openzeppelin/contracts": "^3.0.1",
+        "@truffle/hdwallet-provider": "^1.0.35",
+        "web3": "^1.2.8"
+    }
+}
